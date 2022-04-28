@@ -5,9 +5,9 @@
     const LinaMaria = {
 
      pronouns: "she" | "her",
-     code: [Javascript, Typescript, HTML, CSS, Java],
-     BD: [MySQL],
-     tools: [React,Node,Styled-Components, spring boot]
+     code: [Javascript, HTML, CSS, Java],
+     BD: [MySQL, MongoDB, Postgres],
+     tools: [React,Styled-Components, spring boot]
   
     socialMedia: {
                         Instagram: LinaDev14",
