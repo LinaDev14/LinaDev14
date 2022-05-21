@@ -1,6 +1,6 @@
 ### Hi I'M LINA MARÍA ✌️
 
-  ![LinaDev14](gitartwork.svg)
+  ![gitartwork](gitartwork.svg)
  
 
     const LinaMaria = {
