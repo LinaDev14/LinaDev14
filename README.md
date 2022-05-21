@@ -1,7 +1,7 @@
 ### Hi I'M LINA MARÍA ✌️
 
   ![gitartwork](gitartwork.svg)
-  ![gitartwork](https://user-images.githubusercontent.com/86454777/169636782-02e997d6-ab2f-4615-8d89-fbfbe26bac55.svg)
+  
 
 
     const LinaMaria = {
