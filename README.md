@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F72458&lines=I'm+Lina+Maria+;What's+new%3F)](https://git.io/typing-svg)
-
+___________________________________________________________________________________________________________________________________________________________
   ![gitartwork](gitartwork.svg)
   
 
