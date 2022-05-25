@@ -5,19 +5,30 @@
 ![gitartwork](gitartwork.svg)
 ___________________________________________________________________________________________________________________________________________________________
 
-    const LinaMaria = {
-
-     pronouns: "she" | "her",
-     code: [Javascript, HTML, CSS, Java],
-     BD: [MySQL, MongoDB, Postgres],
-     tools: [React,Styled-Components, spring boot, webflux]
+    
+    import linaDev14.Data;
+    
+    
+    @Data
+    @Document
+    public class Data {
+    
+        private static final String NAME = "Lina Maria"
+        private static final String[] CODE = ["Java", "Javascript", "HTML", "CSS"]
+        private static final String[] DB = ["MySQL", "MongoDB", "Postgres"]
+        private static final String[] TOOLS = ["React,Styled-Components", "spring boot", "webflux"]
+    
+    }
+    
+     // delete clear data
+    public Mono<Void> deleteClearData(){
+        return LinaDevRepository.deleteAll();
+    }
+    
+    
+   
+    
   
-    socialMedia: {
-                        Instagram: LinaDev14",
-                        linkedInd: Lina Maria Guerrero López",
-                      },
-    
-    
    ________________________________________________________________________________________________________________________________________________________ 
     
 
